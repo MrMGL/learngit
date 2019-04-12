@@ -5,5 +5,4 @@ Git tracks changes.
 Git is good.
 My stupid boss still prefers SVN.
 Create a new branch is quick.
-what happen.
 
